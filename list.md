@@ -1,0 +1,2 @@
+| https://blog.samaltman.com |  |
+| --- | --- |
