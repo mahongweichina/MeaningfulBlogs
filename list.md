@@ -7,3 +7,4 @@
 | http://www.wangjianshuo.com | https://blog.garrytan.com |
 | https://www.gatesnotes.com | https://dennybritz.com |
 | https://vadimdemedes.com | https://lilianweng.github.io |
+| https://linxule.com |  |
