@@ -8,3 +8,4 @@
 | https://www.gatesnotes.com | https://dennybritz.com |
 | https://vadimdemedes.com | https://lilianweng.github.io |
 | https://linxule.com | https://threadcounts.substack.com |
+| https://kanjun.me |  |
